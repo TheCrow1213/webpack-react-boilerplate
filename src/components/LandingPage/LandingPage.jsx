@@ -1,8 +1,6 @@
 import React from 'react'
 import uuidV4 from 'uuid/v4'
 
-import MarkdownForm from '../MarkdownForm'
-
 export default class LandingPage extends React.Component {
     constructor(props) {
         super(props)
